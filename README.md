@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **adnankarali0@hotmail.com**
   
--You can check out my website at **adnankarali.com.tr**
+- You can check out my website at **adnankarali.com.tr**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/adnan-ankarali-436694248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/adnan-ankarali-436694248" height="30" width="40" /></a>
